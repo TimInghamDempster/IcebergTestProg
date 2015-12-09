@@ -26,3 +26,18 @@
 *.exe
 *.out
 *.app
+
+#log files
+*.tlog
+*.log
+
+#visual studio junk
+*.ilk
+*.pdb
+*.lastbuildstate
+*.suo
+*.opensdf
+*.sdf
+*.idb
+*Debug/
+*Release/
